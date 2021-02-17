@@ -1,3 +1,6 @@
 # Website_Assignment
 
-<h2>An ecommerce website to sell crochet and knit accessories</h2>
+##Samli
+
+###An Ecommerce website to sell crochet and knit accessories
+
