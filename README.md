@@ -4,4 +4,4 @@
 
 #### Here is a glimpse of our Website!
 
-![Here is a glimpse of our Website!](SamLi-Knitted-Crochet-Accessories-Home.png " Knitted an Crochet Accessories")
+![Here is a glimpse of our Website!](/Assets/SamLi-Knitted-Crochet-Accessories-Home.png " Knitted an Crochet Accessories")
